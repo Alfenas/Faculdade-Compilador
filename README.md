@@ -1,6 +1,5 @@
-<h3>Analisador Léxico e Sintático para a linguagem SLP (Simple Lisp) criada em sala de aula.</h3>
+<h3>Analisador Léxico e Sintático para a linguagem criada em sala de aula.</h3>
 </br>
-A linguagem é sintaticamente baseada em LISP.</br>
 Possui escopo de função, estruturas de repetição e condição.
 </br></br>
 
